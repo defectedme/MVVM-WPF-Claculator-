@@ -5,7 +5,7 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVM WPF Calulator app", "Pierwsza Aplikacja Desk WPF Calculator\MVVM WPF Calulator app.csproj", "{9B792346-F201-49C4-81B1-5C71464E4E11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator.WpfApp", "Calculator.WpfApp\Calculator.WpfApp.csproj", "{1839454B-4924-44C4-BF88-27F01710C2E7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator.WpfAPP", "Calculator.WpfApp\Calculator.WpfAPP.csproj", "{1839454B-4924-44C4-BF88-27F01710C2E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
